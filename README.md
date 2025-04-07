@@ -4,7 +4,7 @@ This repository includes two analytical notebooks focused on uncovering insights
 
 ## 🧠 Projects Included
 
-### 1. GuardianVets Employee Salary Savings Analysis
+### 1. <Redacted> Company's Employee Salary Savings Analysis
 - Explores cost-saving opportunities through data-driven employee compensation analysis.
 - Uses Pandas for data wrangling and exploratory analysis.
 
