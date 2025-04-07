@@ -32,7 +32,7 @@ Or run directly in Google Colab.
 - Insight communication using visual tools
 
 ## 📁 File Structure
-- `GuardianVets_Employee_Salary_Savings_Analysis.ipynb`
+- `Employee_Salary_Savings_Analysis.ipynb`
 - `HoldTime_Geospatial_Analysis.ipynb`
 - `requirements.txt`
 
